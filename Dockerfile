@@ -1,4 +1,4 @@
-FROM nodered/node-red:2.2.2-16-minimal
+FROM nodered/node-red:3.0.0-minimal
 
 RUN npm install \
   	 node-red-contrib-home-assistant-websocket \
