@@ -16,3 +16,4 @@ jobs:
           container: ${{ github.event.repository.name }}
           dry-run: false
           tag-regex: pr-${{github.event.pull_request.number}}
+          untagged: true
