@@ -13,7 +13,6 @@ jobs:
         uses: vlaurin/action-ghcr-prune@main
         with:
           token: ${{ secrets.PACKAGES_TOKEN }}
-          organization: ${{ github.repository_owner }}
           container: ${{ github.event.repository.name }}
           dry-run: false
           tag-regex: pr-${{github.event.pull_request.number}}
