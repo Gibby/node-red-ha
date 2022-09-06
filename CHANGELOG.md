@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/Gibby/node-red-ha/compare/v1.1.0...v1.1.1) (2022-09-06)
+
+
+### Bug Fixes
+
+* Bump node-red:3.0.0-18-minimal to node-red:3.0.2-18-minimal ([#25](https://github.com/Gibby/node-red-ha/issues/25)) ([bfd1365](https://github.com/Gibby/node-red-ha/commit/bfd1365ba341dce1a68cc99e734a0f88be3e7906))
+* Bump nodered/node-red:3.0.0-18-minimal to nodered/node-red:3.0.2-18-minimal ([bfd1365](https://github.com/Gibby/node-red-ha/commit/bfd1365ba341dce1a68cc99e734a0f88be3e7906))
+
 ## [1.1.0](https://github.com/Gibby/node-red-ha/compare/v1.0.0...v1.1.0) (2022-07-19)
 
 
