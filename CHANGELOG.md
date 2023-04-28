@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Gibby/node-red-ha/compare/v1.1.1...v1.2.0) (2023-04-28)
+
+
+### Features
+
+* Added node-red-contrib-viseo-aws ([#43](https://github.com/Gibby/node-red-ha/issues/43)) ([c5eea82](https://github.com/Gibby/node-red-ha/commit/c5eea823c208fadb5a99e74e79939953327b6caa))
+
 ## [1.1.1](https://github.com/Gibby/node-red-ha/compare/v1.1.0...v1.1.1) (2022-09-06)
 
 
